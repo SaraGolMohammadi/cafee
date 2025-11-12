@@ -1,7 +1,7 @@
 
 #🎵 RhythmoTune — مینی‌پروژه موزیک‌پلیر با React
 
-[RhythmoTune](public/img/p126-2-removebg-preview(1).png)
+[RhythmoTune](public/img/majid-razavi-8211-mesle-to_450.webp)
 
 
 
