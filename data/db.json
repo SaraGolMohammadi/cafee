@@ -1,0 +1,112 @@
+{
+   
+    "services": [
+      {
+        "id": 1,
+        "title": "Paslry",
+        "img": "/img/icons8-pastry-100.png",
+        "icon": "Paslry"
+      },
+      {
+        "id":2,
+        "title":"Beans variant",
+        "img": "/img/icons8-coffee-beans-94.png",
+        "icon": "Beans variant"
+      },
+      {
+        "id": 3,
+        "title": "Take A Way",
+        "img": "/img/icons8-cafe-96.png",
+        "icon": "Take A Way"
+      },
+      {
+        "id": 4,
+        "title": "type of cafe",
+        "img": "/img/icons8-cafe-96 (1).png",
+        "icon": "type of cafe"
+      },
+
+      {
+        "id": 5,
+        "title": "Moka pot",
+        "img": "/img/icons8-moka-pot-100.png",
+        "icon": "type of cafe"
+      }
+
+
+
+     
+    ],
+
+    "menu": [
+      {
+        "id": 1,
+        "title": "Lemon Tart",
+        "img": "/img/w=150.avif",
+        "icon": "Paslry",
+        "price":140
+            },
+      {
+        "id":2,
+        "title":"Beans variant",
+        "img": "/img/images3-removebg-preview.png",
+        "icon": "Beans variant",
+        "type": "hot",
+        "price":150
+      },
+      {
+        "id": 3,
+        "title": "Caffè Mocha",
+        "img": "/img/images5-removebg-preview.png",
+        "icon": "Caffè Mocha",
+        "type": "hot",
+        "price":120
+      },
+      {
+        "id": 4,
+        "title": "Iced Espresso",
+        "img": "/img/p126-2-removebg-preview(1).png",
+        "icon": "Iced Espresso",
+        "type": "hot",
+        "price":110
+      },
+      {
+        "id": 5,
+        "title": "Iced Mocha",
+        "img": "/img/images12-removebg-preview.png",
+        "icon": "Iced Mocha",
+        "price":130
+      },
+      {
+        "id": 6,
+        "title": "Almond Tiramisu Cake",
+        "img": "/img/w=156.avif",
+        "icon": "Almond Tiramisu Cake",
+        "price":145
+      },
+      {
+        "id": 7,
+        "title": "Orange Poppy Seed Jumbo",
+        "img": "/img/w=157.avif",
+        "icon": "Orange Poppy Seed Jumbo",
+        "price":110
+      },
+      {
+        "id": 4,
+        "title": "Strawberry Milkshake",
+        "img": "/img/Untitled55-removebg-preview.png",
+        "icon": "Strawberry Milkshake",
+        "type": "cold",
+        "price":150
+      },
+      {
+        "id": 8,
+        "title": "Pecan Nut Pie",
+        "img": "/img/w=159.avif",
+        "icon": "Pecan Nut Pie",
+        "price":142
+      }
+
+    ]
+  }
+ 
